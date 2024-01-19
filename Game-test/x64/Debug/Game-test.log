@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\kenta\source\repos\Game-test\Game-test\main.cpp(62,9): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kenta\source\repos\Game-test\Game-test\main.cpp(63,9): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kenta\source\repos\Game-test\Game-test\main.cpp(88,18): warning C4566: ユニバーサル文字名 '\u2715' によって表示されている文字は、現在のコード ページ (932) で表示できません
+  Game-test.vcxproj -> C:\Users\kenta\source\repos\Game-test\x64\Debug\Game-test.exe
